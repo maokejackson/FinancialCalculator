@@ -1,4 +1,14 @@
 *.class
+*.log
+
+# IntelliJ IDEA files
+.idea
+*.iml
+
+# Eclipse files
+.settings
+.classpath
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
